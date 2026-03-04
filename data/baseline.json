@@ -2,10 +2,10 @@
     "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\MicrosoftEdgeAutoLaunch_563007DEFDA90F08AC0665BEF76379EF": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
     "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\OneDrive": "\"C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe\" /background",
     "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Steam": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" -silent",
-    "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\electron.app.Notion": "C:\\Users\\manpr\\AppData\\Local\\Programs\\Notion\\Notion.exe --open-at-login",
-    "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Discord": "\"C:\\Users\\manpr\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe",
+    "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\electron.app.Notion": "C:\\Users\\AppData\\Local\\Programs\\Notion\\Notion.exe --open-at-login",
+    "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Discord": "\"C:\\Users\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe",
     "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\EpicGamesLauncher": "\"C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe\" -silent -launchcontext=boot",
-    "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\CanvaAutoLaunchAvailabilityCheckAgent": "\"C:\\Users\\manpr\\AppData\\Local\\Programs\\Canva\\Canva.exe\" --start-availability-check-agent",
+    "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\CanvaAutoLaunchAvailabilityCheckAgent": "\"C:\\UsersAppData\\Local\\Programs\\Canva\\Canva.exe\" --start-availability-check-agent",
     "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\org.openvpn.client": "C:\\Program Files\\OpenVPN Connect\\OpenVPNConnect.exe --opened-at-login --minimize",
     "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\SecurityHealth": "%windir%\\system32\\SecurityHealthSystray.exe",
     "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\RtkAudUService": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_f8e4f859703e4526\\RtkAudUService64.exe\" -background",
@@ -34,4 +34,5 @@
     "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\legalnoticetext": "",
     "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\scforceoption": "0",
     "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\shutdownwithoutlogon": "1"
+
 }
