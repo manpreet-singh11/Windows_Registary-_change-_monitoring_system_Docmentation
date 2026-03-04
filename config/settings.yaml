@@ -1,0 +1,17 @@
+monitor_keys:
+  - hive: "HKEY_CURRENT_USER"
+    path: "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+  - hive: "HKEY_LOCAL_MACHINE"
+    path: "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+  - hive: "HKEY_LOCAL_MACHINE"
+    path: "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System"
+
+# Intelligence Layer Configuration
+threat_indicators:
+  critical_paths: ["POLICIES", "WINDOWS DEFENDER", "SECURITY CENTER"]
+  high_risk_extensions: [".vbs", ".ps1", ".bat", ".tmp", ".scr", ".js", ".hta"]
+  suspicious_keywords: ["powershell", "cmd.exe", "temp", "appdata", "curl", "wget"]
+
+scan_interval_seconds: 60
+baseline_file: "data/baseline.json"
+log_file: "logs/alerts.csv"

@@ -1,0 +1,15 @@
+2026-02-13 19:38:29,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\Backdoor_Test
+2026-02-13 19:39:29,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\Backdoor_Test
+2026-02-13 19:40:29,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\Backdoor_Test
+2026-02-13 20:03:00,MEDIUM,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:04:00,MEDIUM,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:04:00,HIGH,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:05:00,MEDIUM,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:05:00,HIGH,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:05:00,HIGH,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\PSPersist
+2026-02-13 20:06:00,MEDIUM,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:06:00,HIGH,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:06:00,HIGH,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\PSPersist
+2026-02-13 20:07:00,MEDIUM,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:07:00,HIGH,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:07:00,HIGH,ADDED,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\PSPersist

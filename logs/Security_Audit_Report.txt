@@ -1,0 +1,37 @@
+█████████████████████████████████████████████████████████████████
+         SYSTEM REGISTRY SECURITY AUDIT REPORT
+█████████████████████████████████████████████████████████████████
+Generated on: 2026-02-13 20:14:26
+Total Events Tracked: 15
+-----------------------------------------------------------------
+
+[!] ALERT SEVERITY BREAKDOWN:
+ - HIGH      : 7 events
+ - MEDIUM    : 5 events
+ - ADDED     : 3 events
+
+[!] TOP SECURITY THREATS (CRITICAL/HIGH):
+ ALERT: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript (4 occurrences)
+ ALERT: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\PSPersist (3 occurrences)
+
+=================================================================
+### FULL DETAILED EVENT LOG ###
+-----------------------------------------------------------------
+          Timestamp   Risk                                                                        Action                                                                      Path
+2026-02-13 19:38:29  ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\Backdoor_Test                                                                       NaN
+2026-02-13 19:39:29  ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\Backdoor_Test                                                                       NaN
+2026-02-13 19:40:29  ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\Backdoor_Test                                                                       NaN
+2026-02-13 20:03:00 MEDIUM                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:04:00 MEDIUM                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:04:00   HIGH                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:05:00 MEDIUM                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:05:00   HIGH                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:05:00   HIGH                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\PSPersist
+2026-02-13 20:06:00 MEDIUM                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:06:00   HIGH                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:06:00   HIGH                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\PSPersist
+2026-02-13 20:07:00 MEDIUM                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MyTestApp
+2026-02-13 20:07:00   HIGH                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\MalScript
+2026-02-13 20:07:00   HIGH                                                                         ADDED HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\PSPersist
+█████████████████████████████████████████████████████████████████
+                   END OF REPORT
